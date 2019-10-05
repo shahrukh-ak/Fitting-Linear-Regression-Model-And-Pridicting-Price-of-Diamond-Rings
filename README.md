@@ -1,4 +1,4 @@
-# Fitting-Linear-Regression-Model-Pridicting-Price-of-Diamond-Rings
+# Fitting-Linear-Regression-Model-And-Predicting-Price-of-Diamond-Rings
 To Analyze the Data of the Price and Size of Ladies Diamond Rings
 
 The dataset provided in the link below contains the prices of ladies&#39; diamond rings and
